@@ -1,0 +1,225 @@
+Do we really need to say this again? Yes. Sadly, yes we do. Too many people will scan the front page and miss this info in their rush to find spawn code information. So, we have to start things off by saying it again.
+
+ '''More and more people are asking for codes to spawn in dino of specific Tiers and Variants. There are NO console codes server admins can use to do this. The spawning of Omega modded dino is dynamic and can not be controlled by server admins. The only spawn codes available are listed below. There are no super-secret codes that can be revealed to you.'''
+
+OK, now that we have this cleared up, on to the goodies!
+
+==Misc/Temp==
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_SoulShard.PrimalItem_SoulShard'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_ChestShard.PrimalItem_ChestShard'" 1 0 0
+
+==Souls==
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_UtilitySoul.PrimalItem_UtilitySoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_CosmicSoul.PrimalItem_CosmicSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_ElementalSoul.PrimalItem_ElementalSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_EtherealSoul.PrimalItem_EtherealSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_GuardianSoul.PrimalItem_GuardianSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_MythicalSoul.PrimalItem_MythicalSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_NightmareSoul.PrimalItem_NightmareSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_RageSoul.PrimalItem_RageSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_ResourceSoul.PrimalItem_ResourceSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_SummonerSoul.PrimalItem_SummonerSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_UnstableSoul.PrimalItem_UnstableSoul'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Souls/PrimalItem_UtilitySoul.PrimalItem_UtilitySoul'" 1 0 0
+
+==Essences==
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_BasicEssence.PrimalItem_BasicEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_BetaEssence.PrimalItem_BetaEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_AlphaEssence.PrimalItem_AlphaEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_PrimeEssence.PrimalItem_PrimeEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_UltimateEssence.PrimalItem_UltimateEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_OmegaEssence.PrimalItem_OmegaEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_GodEssence.PrimalItem_GodEssence'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Essence/PrimalItem_BossEssence.PrimalItem_BossEssence'" 1 0 0
+
+==Potions==
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Potions/HealingPotions/PrimalItemConsumable_BasePotion.PrimalItemConsumable_BasePotion'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Potions/HealingPotions/PrimalItemConsumable_BetaPotion.PrimalItemConsumable_BetaPotion'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Potions/HealingPotions/PrimalItemConsumable_AlphaPotion.PrimalItemConsumable_AlphaPotion'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Potions/HealingPotions/PrimalItemConsumable_PrimePotion.PrimalItemConsumable_PrimePotion'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Potions/HealingPotions/PrimalItemConsumable_UltimatePotion.PrimalItemConsumable_UltimatePotion'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Potions/HealingPotions/PrimalItemConsumable_OmegaPotion.PrimalItemConsumable_OmegaPotion'" 1 0 0
+
+==Items==
+;Unstable Water:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/UnstableWater/PrimalItemConsumable_UnstableWater.PrimalItemConsumable_UnstableWater'" 1 0 0
+;God Egg:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/GodEgg/PrimalItemStructure_GodEgg.PrimalItemStructure_GodEgg'" 1 0 0
+;OmegaBeacon:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/OmegaBeacon/PrimalItemStructure_OmegaBeacon.PrimalItemStructure_OmegaBeacon'" 1 0 0
+
+;Omega Workbench:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/OmegaWorkbench" 1 0 0
+;Soul Furnace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/SoulFurnace" 1 0 0
+;Soul Grinder:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/SoulGrinder" 1 0 0
+;Omega Upgrade Bench:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/UpgradeBench" 1 0 0
+;Void Vacuum:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/VoidVacuum" 1 0 0
+;Cap of Invisibility:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/CapOfInvisibility" 1 0 0
+;Gravity Boots:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/GravityBoots" 1 0 0
+;Seagull Necklace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/Necklaces/IchthyornisNecklace" 1 0 0
+;Pego Necklace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/Necklaces/PegoNecklace" 1 0 0
+;Reflect Shield:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/ReflectShield" 1 0 0
+;Shadow Cloak:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/ShadowCloak" 1 0 0
+;Void Trousers:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/VoidTrousers" 1 0 0
+
+==Sedatives==
+:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_Sedative_ArkOmega.PrimalItemConsumable_Sedative_ArkOmega'" 1 0 0
+:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_BetaSedative_ArkOmega.PrimalItemConsumable_BetaSedative_ArkOmega'" 1 0 0
+:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_AlphaSedative_ArkOmega.PrimalItemConsumable_AlphaSedative_ArkOmega'" 1 0 0
+:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_PrimeSedative_ArkOmega.PrimalItemConsumable_PrimeSedative_ArkOmega'" 1 0 0
+:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_UltimateSedative_ArkOmega.PrimalItemConsumable_UltimateSedative_ArkOmega'" 1 0 0
+:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_OmegaSedative_ArkOmega.PrimalItemConsumable_OmegaSedative_ArkOmega'" 1 0 0
+
+==Kibbles== 
+===Basic (Kibble)===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Cosmic.PrimalItemConsumable_Kibble_Cosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Elemental.PrimalItemConsumable_Kibble_Elemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Ethereal.PrimalItemConsumable_Kibble_Ethereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Guardian.PrimalItemConsumable_Kibble_Guardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Mythical.PrimalItemConsumable_Kibble_Mythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Nightmare.PrimalItemConsumable_Kibble_Nightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Raging.PrimalItemConsumable_Kibble_Raging'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Resource.PrimalItemConsumable_Kibble_Resource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Summoner.PrimalItemConsumable_Kibble_Summoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Unstable.PrimalItemConsumable_Kibble_Unstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_Utility.PrimalItemConsumable_Kibble_Utility'" 1 0 0
+
+===Beta (Kibble)===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaCosmic.PrimalItemConsumable_Kibble_BetaCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaElemental.PrimalItemConsumable_Kibble_BetaElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaEthereal.PrimalItemConsumable_Kibble_BetaEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaGuardian.PrimalItemConsumable_Kibble_BetaGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaMythical.PrimalItemConsumable_Kibble_BetaMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaNightmare.PrimalItemConsumable_Kibble_BetaNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaRaging.PrimalItemConsumable_Kibble_BetaRaging'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaResource.PrimalItemConsumable_Kibble_BetaResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaSummoner.PrimalItemConsumable_Kibble_BetaSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaUnstable.PrimalItemConsumable_Kibble_BetaUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_BetaUtility.PrimalItemConsumable_Kibble_BetaUtility'" 1 0 0
+
+===Alpha (Kibble)===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaCosmic.PrimalItemConsumable_Kibble_AlphaCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaElemental.PrimalItemConsumable_Kibble_AlphaElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaEthereal.PrimalItemConsumable_Kibble_AlphaEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaGuardian.PrimalItemConsumable_Kibble_AlphaGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaMythical.PrimalItemConsumable_Kibble_AlphaMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaNightmare.PrimalItemConsumable_Kibble_AlphaNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaRaging.PrimalItemConsumable_Kibble_AlphaRaging'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaResource.PrimalItemConsumable_Kibble_AlphaResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaSummoner.PrimalItemConsumable_Kibble_AlphaSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaUnstable.PrimalItemConsumable_Kibble_AlphaUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_AlphaUtility.PrimalItemConsumable_Kibble_AlphaUtility'" 1 0 0
+
+===Prime (Kibble)===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeCosmic.PrimalItemConsumable_Kibble_PrimeCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeElemental.PrimalItemConsumable_Kibble_PrimeElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeEthereal.PrimalItemConsumable_Kibble_PrimeEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeGuardian.PrimalItemConsumable_Kibble_PrimeGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeMythical.PrimalItemConsumable_Kibble_PrimeMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeNightmare.PrimalItemConsumable_Kibble_PrimeNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeRaging.PrimalItemConsumable_Kibble_PrimeRaging'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeResource.PrimalItemConsumable_Kibble_PrimeResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeSummoner.PrimalItemConsumable_Kibble_PrimeSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeUnstable.PrimalItemConsumable_Kibble_PrimeUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_PrimeUtility.PrimalItemConsumable_Kibble_PrimeUtility'" 1 0 0
+
+===Ultimate (Kibble)===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateCosmic.PrimalItemConsumable_Kibble_UltimateCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateElemental.PrimalItemConsumable_Kibble_UltimateElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateEthereal.PrimalItemConsumable_Kibble_UltimateEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateGuardian.PrimalItemConsumable_Kibble_UltimateGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateMythical.PrimalItemConsumable_Kibble_UltimateMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateNightmare.PrimalItemConsumable_Kibble_UltimateNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateRaging.PrimalItemConsumable_Kibble_UltimateRaging'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateResource.PrimalItemConsumable_Kibble_UltimateResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateSummoner.PrimalItemConsumable_Kibble_UltimateSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateUnstable.PrimalItemConsumable_Kibble_UltimateUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_UltimateUtility.PrimalItemConsumable_Kibble_UltimateUtility'" 1 0 0
+
+===Omega (Kibble)===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaCosmic.PrimalItemConsumable_Kibble_OmegaCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaElemental.PrimalItemConsumable_Kibble_OmegaElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaEthereal.PrimalItemConsumable_Kibble_OmegaEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaGuardian.PrimalItemConsumable_Kibble_OmegaGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaMythical.PrimalItemConsumable_Kibble_OmegaMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaNightmare.PrimalItemConsumable_Kibble_OmegaNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaRaging.PrimalItemConsumable_Kibble_OmegaRaging'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaResource.PrimalItemConsumable_Kibble_OmegaResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaSummoner.PrimalItemConsumable_Kibble_OmegaSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaUnstable.PrimalItemConsumable_Kibble_OmegaUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Kibble/PrimalItemConsumable_Kibble_OmegaUtility.PrimalItemConsumable_Kibble_OmegaUtility'" 1 0 0
+
+==Eggs==
+===Basic===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Cosmic.PrimalItemConsumable_Egg_Cosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Elemental.PrimalItemConsumable_Egg_Elemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Ethereal.PrimalItemConsumable_Egg_Ethereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Guardian.PrimalItemConsumable_Egg_Guardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Mythical.PrimalItemConsumable_Egg_Mythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Nightmare.PrimalItemConsumable_Egg_Nightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Rage.PrimalItemConsumable_Egg_Rage'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Resource.PrimalItemConsumable_Egg_Resource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Summoner.PrimalItemConsumable_Egg_Summoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Unstable.PrimalItemConsumable_Egg_Unstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_Utility.PrimalItemConsumable_Egg_Utility'" 1 0 0
+
+===Beta===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaCosmic.PrimalItemConsumable_Egg_BetaCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaElemental.PrimalItemConsumable_Egg_BetaElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaEthereal.PrimalItemConsumable_Egg_BetaEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaGuardian.PrimalItemConsumable_Egg_BetaGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaMythical.PrimalItemConsumable_Egg_BetaMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaNightmare.PrimalItemConsumable_Egg_BetaNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaRage.PrimalItemConsumable_Egg_BetaRage'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaResource.PrimalItemConsumable_Egg_BetaResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaSummoner.PrimalItemConsumable_Egg_BetaSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaUnstable.PrimalItemConsumable_Egg_BetaUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_BetaUtility.PrimalItemConsumable_Egg_BetaUtility'" 1 0 0
+
+===Alpha===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaCosmic.PrimalItemConsumable_Egg_AlphaCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaElemental.PrimalItemConsumable_Egg_AlphaElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaEthereal.PrimalItemConsumable_Egg_AlphaEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaGuardian.PrimalItemConsumable_Egg_AlphaGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaMythical.PrimalItemConsumable_Egg_AlphaMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaNightmare.PrimalItemConsumable_Egg_AlphaNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaRage.PrimalItemConsumable_Egg_AlphaRage'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaResource.PrimalItemConsumable_Egg_AlphaResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaSummoner.PrimalItemConsumable_Egg_AlphaSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaUnstable.PrimalItemConsumable_Egg_AlphaUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_AlphaUtility.PrimalItemConsumable_Egg_AlphaUtility'" 1 0 0
+
+===Prime===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeCosmic.PrimalItemConsumable_Egg_PrimeCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeElemental.PrimalItemConsumable_Egg_PrimeElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeEthereal.PrimalItemConsumable_Egg_PrimeEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeGuardian.PrimalItemConsumable_Egg_PrimeGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeMythical.PrimalItemConsumable_Egg_PrimeMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeNightmare.PrimalItemConsumable_Egg_PrimeNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeRage.PrimalItemConsumable_Egg_PrimeRage'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeResource.PrimalItemConsumable_Egg_PrimeResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeSummoner.PrimalItemConsumable_Egg_PrimeSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeUnstable.PrimalItemConsumable_Egg_PrimeUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_PrimeUtility.PrimalItemConsumable_Egg_PrimeUtility'" 1 0 0
+
+===Ultimate===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateCosmic.PrimalItemConsumable_Egg_UltimateCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateElemental.PrimalItemConsumable_Egg_UltimateElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateEthereal.PrimalItemConsumable_Egg_UltimateEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateGuardian.PrimalItemConsumable_Egg_UltimateGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateMythical.PrimalItemConsumable_Egg_UltimateMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateNightmare.PrimalItemConsumable_Egg_UltimateNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateRage.PrimalItemConsumable_Egg_UltimateRage'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateResource.PrimalItemConsumable_Egg_UltimateResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateSummoner.PrimalItemConsumable_Egg_UltimateSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateUnstable.PrimalItemConsumable_Egg_UltimateUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_UltimateUtility.PrimalItemConsumable_Egg_UltimateUtility'" 1 0 0
+
+===Omega===
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaCosmic.PrimalItemConsumable_Egg_OmegaCosmic'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaElemental.PrimalItemConsumable_Egg_OmegaElemental'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaEthereal.PrimalItemConsumable_Egg_OmegaEthereal'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaGuardian.PrimalItemConsumable_Egg_OmegaGuardian'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaMythical.PrimalItemConsumable_Egg_OmegaMythical'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaNightmare.PrimalItemConsumable_Egg_OmegaNightmare'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaRage.PrimalItemConsumable_Egg_OmegaRage'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaResource.PrimalItemConsumable_Egg_OmegaResource'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaSummoner.PrimalItemConsumable_Egg_OmegaSummoner'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaUnstable.PrimalItemConsumable_Egg_OmegaUnstable'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Eggs/Normal/PrimalItemConsumable_Egg_OmegaUtility.PrimalItemConsumable_Egg_OmegaUtility'" 1 0 0
