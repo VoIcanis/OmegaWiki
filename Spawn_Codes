@@ -107,50 +107,50 @@ OK, now that we have this cleared up, on to the goodies!
 
 ==Weapons and Ammunition==
 ==Healing Darts==
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_HealingDart.PrimalItemAmmo_HealingDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_BetaHealingDart.PrimalItemAmmo_BetaHealingDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_AlphaHealingDart.PrimalItemAmmo_AlphaHealingDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_PrimeHealingDart.PrimalItemAmmo_PrimeHealingDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_UltimateHealingDart.PrimalItemAmmo_UltimateHealingDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_OmegaHealingDart.PrimalItemAmmo_OmegaHealingDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_HealingDart.PrimalItemAmmo_HealingDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_BetaHealingDart.PrimalItemAmmo_BetaHealingDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_AlphaHealingDart.PrimalItemAmmo_AlphaHealingDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_PrimeHealingDart.PrimalItemAmmo_PrimeHealingDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_UltimateHealingDart.PrimalItemAmmo_UltimateHealingDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HealingDarts/PrimalItemAmmo_OmegaHealingDart.PrimalItemAmmo_OmegaHealingDart'" 1 0 0
 
 ==Tranq Arrows (Stone)==
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_PrimeArrowKnockout.PrimalItemAmmo_PrimeArrowKnockout'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_BetaArrowKnockout.PrimalItemAmmo_BetaArrowKnockout'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_AlphaArrowKnockout.PrimalItemAmmo_AlphaArrowKnockout'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_PrimeArrowKnockout.PrimalItemAmmo_PrimeArrowKnockout'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_UltimateArrowKnockout.PrimalItemAmmo_UltimateArrowKnockout'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_OmegaArrowKnockout.PrimalItemAmmo_OmegaArrowKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_PrimeArrowKnockout.PrimalItemAmmo_PrimeArrowKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_BetaArrowKnockout.PrimalItemAmmo_BetaArrowKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_AlphaArrowKnockout.PrimalItemAmmo_AlphaArrowKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_PrimeArrowKnockout.PrimalItemAmmo_PrimeArrowKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_UltimateArrowKnockout.PrimalItemAmmo_UltimateArrowKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqArrows/PrimalItemAmmo_OmegaArrowKnockout.PrimalItemAmmo_OmegaArrowKnockout'" 1 0 0
 
 ==Tranq Arrows (Metal)==
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundKnockoutArrow.PrimalItemAmmo_CompoundKnockoutArrow'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundBetaKnockoutArrow.PrimalItemAmmo_CompoundBetaKnockoutArrow'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundAlphaKnockoutArrow.PrimalItemAmmo_CompoundAlphaKnockoutArrow'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundPrimeKnockoutArrow.PrimalItemAmmo_CompoundPrimeKnockoutArrow'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundUltimateKnockoutArrow.PrimalItemAmmo_CompoundUltimateKnockoutArrow'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundOmegaKnockoutArrow.PrimalItemAmmo_CompoundOmegaKnockoutArrow'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundGodlikeKnockoutArrow.PrimalItemAmmo_CompoundGodlikeKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundKnockoutArrow.PrimalItemAmmo_CompoundKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundBetaKnockoutArrow.PrimalItemAmmo_CompoundBetaKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundAlphaKnockoutArrow.PrimalItemAmmo_CompoundAlphaKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundPrimeKnockoutArrow.PrimalItemAmmo_CompoundPrimeKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundUltimateKnockoutArrow.PrimalItemAmmo_CompoundUltimateKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundOmegaKnockoutArrow.PrimalItemAmmo_CompoundOmegaKnockoutArrow'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/MetalTranqArrows/PrimalItemAmmo_CompoundGodlikeKnockoutArrow.PrimalItemAmmo_CompoundGodlikeKnockoutArrow'" 1 0 0
 
 ==Tranq Darts==
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_KnockoutDart.PrimalItemAmmo_KnockoutDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_BetaKnockoutDart.PrimalItemAmmo_BetaKnockoutDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_AlphaKnockoutDart.PrimalItemAmmo_AlphaKnockoutDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_PrimeKnockoutDart.PrimalItemAmmo_PrimeKnockoutDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_UltimateKnockoutDart.PrimalItemAmmo_UltimateKnockoutDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_OmegaKnockoutDart.PrimalItemAmmo_OmegaKnockoutDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_KnockoutDart.PrimalItemAmmo_KnockoutDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_BetaKnockoutDart.PrimalItemAmmo_BetaKnockoutDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_AlphaKnockoutDart.PrimalItemAmmo_AlphaKnockoutDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_PrimeKnockoutDart.PrimalItemAmmo_PrimeKnockoutDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_UltimateKnockoutDart.PrimalItemAmmo_UltimateKnockoutDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/TranqDarts/PrimalItemAmmo_OmegaKnockoutDart.PrimalItemAmmo_OmegaKnockoutDart'" 1 0 0
 
 ==Tranq Bolts (Harpoon)==
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockout.PrimalItemAmmo_HarpoonKnockout'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutBeta.PrimalItemAmmo_HarpoonKnockoutBeta'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutAlpha.PrimalItemAmmo_HarpoonKnockoutAlpha'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutPrime.PrimalItemAmmo_HarpoonKnockoutPrime'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutUltimate.PrimalItemAmmo_HarpoonKnockoutUltimate'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutOmega.PrimalItemAmmo_HarpoonKnockoutOmega'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutGodlike.PrimalItemAmmo_HarpoonKnockoutGodlike'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockout.PrimalItemAmmo_HarpoonKnockout'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutBeta.PrimalItemAmmo_HarpoonKnockoutBeta'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutAlpha.PrimalItemAmmo_HarpoonKnockoutAlpha'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutPrime.PrimalItemAmmo_HarpoonKnockoutPrime'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutUltimate.PrimalItemAmmo_HarpoonKnockoutUltimate'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutOmega.PrimalItemAmmo_HarpoonKnockoutOmega'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/HarpoonTranqs/PrimalItemAmmo_HarpoonKnockoutGodlike.PrimalItemAmmo_HarpoonKnockoutGodlike'" 1 0 0
 
 ==Misc Ammunition==
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/WakeUpDart/PrimalItemAmmo_WakeDart.PrimalItemAmmo_WakeDart'" 1 0 0
-admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/Heartsong/PrimalItemAmmo_Heartsong.PrimalItemAmmo_Heartsong'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/WakeUpDart/PrimalItemAmmo_WakeDart.PrimalItemAmmo_WakeDart'" 1 0 0
+ admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/Heartsong/PrimalItemAmmo_Heartsong.PrimalItemAmmo_Heartsong'" 1 0 0
 
 ==Weapons==
  admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Weapons/Boomstick/PrimalItem_Boomstick.PrimalItem_Boomstick'" 1 0 0
