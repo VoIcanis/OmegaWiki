@@ -45,18 +45,18 @@ OK, now that we have this cleared up, on to the goodies!
 ;God Egg:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/GodEgg/PrimalItemStructure_GodEgg.PrimalItemStructure_GodEgg'" 1 0 0
 ;OmegaBeacon:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/OmegaBeacon/PrimalItemStructure_OmegaBeacon.PrimalItemStructure_OmegaBeacon'" 1 0 0
 
-;Omega Workbench:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/OmegaWorkbench" 1 0 0
-;Soul Furnace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/SoulFurnace" 1 0 0
-;Soul Grinder:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/SoulGrinder" 1 0 0
-;Omega Upgrade Bench:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/UpgradeBench" 1 0 0
-;Void Vacuum:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/VoidVacuum" 1 0 0
-;Cap of Invisibility:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/CapOfInvisibility" 1 0 0
-;Gravity Boots:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/GravityBoots" 1 0 0
-;Seagull Necklace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/Necklaces/IchthyornisNecklace" 1 0 0
-;Pego Necklace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/Necklaces/PegoNecklace" 1 0 0
-;Reflect Shield:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/ReflectShield" 1 0 0
-;Shadow Cloak:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/ShadowCloak" 1 0 0
-;Void Trousers:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/VoidTrousers" 1 0 0
+;Omega Workbench:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/OmegaWorkbench'" 1 0 0
+;Soul Furnace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/SoulFurnace'" 1 0 0
+;Soul Grinder:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/SoulGrinder'" 1 0 0
+;Omega Upgrade Bench:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/UpgradeBench'" 1 0 0
+;Void Vacuum:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Structures/VoidVacuum'" 1 0 0
+;Cap of Invisibility:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/CapOfInvisibility'" 1 0 0
+;Gravity Boots:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/GravityBoots'" 1 0 0
+;Seagull Necklace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/Necklaces/IchthyornisNecklace'" 1 0 0
+;Pego Necklace:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/Necklaces/PegoNecklace'" 1 0 0
+;Reflect Shield:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/ReflectShield'" 1 0 0
+;Shadow Cloak:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/ShadowCloak'" 1 0 0
+;Void Trousers:admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Armor/VoidTrousers'" 1 0 0
 
 ==Sedatives==
 :admincheat giveitem "Blueprint'/Game/Mods/ArkOmega/Items/Sedatives/PrimalItemConsumable_Sedative_ArkOmega.PrimalItemConsumable_Sedative_ArkOmega'" 1 0 0
